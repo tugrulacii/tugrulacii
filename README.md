@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python openCv and tia portal.
 - 📫 How to reach me.. tugrulaci@gmail.com
 
+Here, I will share my notes that I took in Electrical and Electronics Engineering department courses. I would appreciate if you let me know the parts you see missing. good work..
 
 <!---
 tugrulacii/tugrulacii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
